@@ -13,7 +13,7 @@ data class GameInfo(
             gridWidth = 4,
             gridHeight = 4,
             initialMsTimeout = 3000L,
-            speedFactor = 0.8,
+            speedFactor = 0.9,
             squaresByRound = 1,
         )
 
